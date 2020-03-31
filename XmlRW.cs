@@ -10,6 +10,9 @@ namespace Standard_UI.ParametersRW
 {
     class XmlRW
     {
+        //we made it
+
+
         #region 构造函数
         public XmlRW()
         { }
