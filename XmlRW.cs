@@ -10,7 +10,7 @@ namespace Standard_UI.ParametersRW
 {
     class XmlRW
     {
-        //we made it
+        //we made it hardly
 
 
         #region 构造函数
