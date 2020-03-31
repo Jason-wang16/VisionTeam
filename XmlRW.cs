@@ -10,7 +10,8 @@ namespace Standard_UI.ParametersRW
 {
     class XmlRW
     {
-        //we made it
+        //我承认都是月亮惹的祸
+
 
 
         #region 构造函数
